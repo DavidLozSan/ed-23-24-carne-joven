@@ -1,4 +1,4 @@
-package com.iesam.promotion.domain;
+package com.iesam.promotions.domain;
 
 public class Promotion {
     private final String id;

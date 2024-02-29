@@ -1,6 +1,6 @@
 package com.iesam.purchase.domain;
 
-import com.iesam.promotion.domain.Promotion;
+import com.iesam.promotions.domain.Promotion;
 import com.iesam.user.domain.User;
 
 public class Purchase {
